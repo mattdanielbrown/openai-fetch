@@ -46,7 +46,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "ky": "^1.7.4"
+    "ky": "^1.10.0"
   },
   "devDependencies": {
     "@dexaai/eslint-config": "^1.3.6",
